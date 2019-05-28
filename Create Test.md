@@ -22,12 +22,12 @@ To create a new exam follow these steps:
 ![Class-Test4](https://user-images.githubusercontent.com/47668802/58515531-c568b180-816a-11e9-864d-f94dcd25004b.PNG)
 
 5. Choose your exam settings. In here you can choose the following:
-    -Expiration date of exam
-    -Time Limit
-    -Instructions fot respondent
-    -Attempts
-    -Theme
-    -Certificate
+        -Expiration date of exam  
+        -Time Limit
+        -Instructions fot respondent
+        -Attempts
+        -Theme
+        -Certificate
 
 ![Class-Test5](https://user-images.githubusercontent.com/47668802/58515532-c568b180-816a-11e9-9ede-3fc1d9fc7798.PNG)
 
