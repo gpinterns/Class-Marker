@@ -31,4 +31,5 @@ To create a new exam follow these steps:
 
 ![Class-Test5](https://user-images.githubusercontent.com/47668802/58515532-c568b180-816a-11e9-9ede-3fc1d9fc7798.PNG)
 
-6. Assign the test
+6. Assign the test (You will get a link)
+![Class-Test6](https://user-images.githubusercontent.com/47668802/58516378-5e98c780-816d-11e9-8cd5-3856b1ebce25.PNG)
