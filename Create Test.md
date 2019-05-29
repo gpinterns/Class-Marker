@@ -11,7 +11,8 @@ To create a new exam follow these steps:
 
 2. Click on New Test
 
-![Class-Test1](https://user-images.githubusercontent.com/47668802/58515525-c26dc100-816a-11e9-8863-6b87ad59125e.PNG)
+![Class-Test2](https://user-images.githubusercontent.com/47668802/58564944-829eec00-81f3-11e9-8422-873b4fcc57f0.PNG)
+
 
 3. Choose a Test Name and create a new Category for your exam or choose an existing category
 
@@ -24,7 +25,7 @@ To create a new exam follow these steps:
 5. Choose your exam settings. In here you can choose the following:
 - Expiration date of exam  
 - Time Limit
-- Instructions fot respondent
+- Instructions for respondent
 - Attempts
 - Theme
 - Certificate
